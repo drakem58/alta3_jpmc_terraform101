@@ -1,0 +1,15 @@
+The objective of this lab is offer an introduction to the tools Terraform Cloud and Terraform Enterprise. Terraform Cloud and Terraform Enterprise are different distributions of the same application.
+
+Terraform Cloud is "software as a service" (a website on the internet), and Terraform Enterprise is the same software, only self-hosted. Regardless of the name, the goals are:
+
+Helps teams use Terraform together
+Runs Terraform in a controlled space
+Easy access to shared state and secrets
+Access controls for approving changes to infrastructure
+The software is available "as a service", by visiting https://app.terraform.io. There is a free tier which this lab explores. Paid tiers are described on the website, but will allow features like collaboration with more than five users, setting permission levels for teams, the ability to enforce policies before creating infrastructure, e.g. more collaboration tools.
+
+Resources:
+
+https://app.terraform.io
+Terraform Cloud Pricing
+Terraform Cloud Plans and Features
